@@ -1,0 +1,3 @@
+setInterval(function(){
+   alert('hello, do you have a beer?');
+}, 1000);
